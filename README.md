@@ -1,6 +1,7 @@
 # Three.js Study
 
 3D 猫を表示させます。
+https://zenn.dev/redpanda/articles/01b5ce98a632fd
 
 ## ref
 
