@@ -1,7 +1,10 @@
 # Three.js Study
 
 3D 猫を表示させます。
-https://zenn.dev/redpanda/articles/01b5ce98a632fd
+
+[zenn blog](https://zenn.dev/redpanda/articles/01b5ce98a632fd)
+
+![3Dcat-mouse](https://user-images.githubusercontent.com/21287797/184119687-79e98c7c-3bdf-48d1-97d9-05cad1c4b9e6.gif)
 
 ## ref
 
